@@ -41,7 +41,7 @@ const Home = () => {
              </a>
              <a href={curriculo} target='blank'>
               <Button>
-                Baixar CV
+                Baixar curriulo
               </Button>
              </a>
           </div>
